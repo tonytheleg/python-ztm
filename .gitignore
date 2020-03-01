@@ -1,2 +1,2 @@
 .vscode
-webserver/.env/
+*/.env/
